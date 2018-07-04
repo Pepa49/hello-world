@@ -1,2 +1,3 @@
 # hello-world
 First repository
+Hi, Schnyder here. New to to GitHub so trying to get a hold of it...
